@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viki2207&label=Profile%20views&color=0e75b6&style=flat" alt="viki2207" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://viki2207.netlify.app/](https://viki2207.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vdsh.netlify.app//](https://vdsh.netlify.app//)
 
 - 💬 Ask me about **.NET, MERN**
 
